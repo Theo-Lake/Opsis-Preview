@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/opsis-logo.png" alt="Opsis" width="104" />
-
-# Opsis
+<img src="docs/assets/opsis-wordmark.png" alt="Opsis" width="440" />
 
 ### Observe. Analyze. Optimize.
 
@@ -31,9 +29,11 @@ Real-time system telemetry, process intelligence, and ML-driven anomaly detectio
 
 <div align="center">
 
-<!-- To embed: open a new GitHub issue, drag the .mp4 in, copy the generated user-attachments URL, paste it as a bare link on its own line below. GitHub renders it as an inline player. -->
+<!-- To embed: open a new GitHub issue, drag the .mp4 into the comment box, wait for upload, copy the
+     generated https://github.com/user-attachments/assets/... URL, then close the tab WITHOUT submitting.
+     Paste that URL below as a bare link on its own line — no markdown wrapper, or it won't render. -->
 
-https://github.com/Theo-Lake/opsis-Preview/assets/REPLACE-WITH-VIDEO-ID/opsis-demo.mp4
+https://github.com/user-attachments/assets/REPLACE-WITH-UPLOADED-VIDEO-URL
 
 *Full walkthrough — live telemetry, process tree, and Argus anomaly scoring.*
 
