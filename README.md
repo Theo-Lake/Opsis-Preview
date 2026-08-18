@@ -249,7 +249,7 @@ Keeping the monitor's own footprint negligible is a hard design constraint — i
 
 ## 👤 About
 
-Opsis is designed and built solo by **Theo Scarton Lago** — second-year Software Engineering student at Lancaster University — covering architecture, backend, frontend, ML, UI design, packaging and go-to-market.
+Opsis is designed and built solo by **Theo Scarton Lago** — Software Engineering student at Lancaster University — covering architecture, backend, frontend, ML, UI design, packaging and go-to-market.
 
 Questions about any part of it — the ETW integration, the anomaly-detection design, the IPC layer — are welcome. Contact details are on my [GitHub profile](https://github.com/Theo-Lake).
 
