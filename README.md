@@ -29,11 +29,7 @@ Real-time system telemetry, process intelligence, and ML-driven anomaly detectio
 
 <div align="center">
 
-<!-- To embed: open a new GitHub issue, drag the .mp4 into the comment box, wait for upload, copy the
-     generated https://github.com/user-attachments/assets/... URL, then close the tab WITHOUT submitting.
-     Paste that URL below as a bare link on its own line — no markdown wrapper, or it won't render. -->
-
-https://github.com/user-attachments/assets/REPLACE-WITH-UPLOADED-VIDEO-URL
+[https://github.com/user-attachments/assets/REPLACE-WITH-UPLOADED-VIDEO-URL](https://github.com/user-attachments/assets/4a5f5c80-026e-4a58-b19b-4179fde635d7)
 
 *Full walkthrough — live telemetry, process tree, and Argus anomaly scoring.*
 
