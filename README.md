@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/opsis-wordmark.png" alt="Opsis" width="440" />
+<img src="assets/opsis-logo-transparent.png" alt="Opsis" width="440" />
 
 ### Observe. Analyze. Optimize.
 
